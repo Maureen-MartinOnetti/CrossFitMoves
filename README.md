@@ -2,7 +2,7 @@
 
 ## Description
 
-Bienvenue sur le site de CrossFit Training, votre ressource ultime pour les vidéos explicatives de mouvements CrossFit et les WODs (Workouts of the Day). Notre site vous permet de :
+Bienvenue sur le site de CrossFitMoves, votre ressource ultime pour les vidéos explicatives de mouvements CrossFit et les WODs (Workouts of the Day). Notre site vous permet de :
 
 - Chercher des vidéos explicatives de mouvements.
 - Parcourir les mouvements classés par catégories et ordre alphabétique.
