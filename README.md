@@ -1,45 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CrossFit Training Site
 
-## Getting Started
+## Description
 
-First, run the development server:
+Bienvenue sur le site de CrossFit Training, votre ressource ultime pour les vidéos explicatives de mouvements CrossFit et les WODs (Workouts of the Day). Notre site vous permet de :
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Chercher des vidéos explicatives de mouvements.
+- Parcourir les mouvements classés par catégories et ordre alphabétique.
+- Trouver des WODs classés par catégories et ordre alphabétique.
+- Voir un WOD différent chaque jour.
+- Se connecter et enregistrer vos WODs et mouvements favoris.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies Utilisées
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Ce projet utilise les technologies suivantes :
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Next.js** : Framework React pour le rendu côté serveur et la génération de sites statiques.
+- **React.js** : Bibliothèque JavaScript pour construire des interfaces utilisateur.
+- **Tailwind CSS** : Framework CSS pour un design rapide et efficace.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Fonctionnalités
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **Barre de Recherche** : Trouvez rapidement des vidéos explicatives et des WODs.
+- **Catégories et Ordre Alphabétique** : Parcourez les mouvements et les WODs par catégories ou ordre alphabétique pour une navigation facile.
+- **WOD Quotidien** : Découvrez un WOD différent chaque jour pour garder votre entraînement varié et stimulant.
+- **Favoris** : Connectez-vous pour enregistrer vos mouvements et WODs préférés et y accéder facilement plus tard.
 
-## Deploy on Vercel
+[![Image](https://i.goopics.net/ofmqn7.jpg)](https://goopics.net/i/ofmqn7)
+[![Image](https://i.goopics.net/we8fku.jpg)](https://goopics.net/i/we8fku)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-Je veux un site où on peut:
-
-- chercher des vidéos explicatives/démo des mouvements avec la barre search
-- qu'ils soient répertorié par catégories et rangé par odre alphabétique
-- qu'on puisse trouver des wods
-- qu'ils soient également répertorié par catégories
-- pouvoir liker les mouvements et wods
-- pouvoir se connecter et garder en mémoire les wods et mouvements qu'on aime dans
