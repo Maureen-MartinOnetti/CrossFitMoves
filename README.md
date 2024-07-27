@@ -34,3 +34,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Je veux un site où on peut:
+
+- chercher des vidéos explicatives/démo des mouvements avec la barre search
+- qu'ils soient répertorié par catégories et rangé par odre alphabétique
+- qu'on puisse trouver des wods
+- qu'ils soient également répertorié par catégories
+- pouvoir liker les mouvements et wods
+- pouvoir se connecter et garder en mémoire les wods et mouvements qu'on aime dans
